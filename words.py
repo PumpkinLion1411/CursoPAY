@@ -1,0 +1,22 @@
+#Palabras para el ahorcado
+
+wordsitas = ( "gato", "perro", "elefante", "jirafa", "leon", "tigre", "cocodrilo", "pajaro", "pez", "vaca",
+    "caballo", "cerdo", "oveja", "gallina", "conejo", "raton", "murcielago", "ardilla", "mono", "zorro",
+    "lobo", "oso", "aguila", "serpiente", "cangrejo", "delfin", "camello", "burro", "mariposa", "pinguino",
+    "jirafa", "abeja", "tortuga", "rana", "lagarto", "mosca", "araña", "escorpion", "caracol", "grillo",
+    "libro", "lapiz", "boligrafo", "mesa", "silla", "cama", "almohada", "puerta", "ventana", "espejo",
+    "computadora", "telefono", "cargador", "control", "televisor", "reloj", "cuchara", "tenedor", "plato", "vaso",
+    "taza", "lavadora", "microondas", "licuadora", "plancha", "camisa", "pantalon", "zapatos", "calcetines", "abrigo",
+    "sombrero", "gorra", "bufanda", "guantes", "maleta", "mochila", "cartera", "llaves", "dinero", "moneda",
+    "banco", "colegio", "hospital", "cine", "supermercado", "restaurante", "parque", "estadio", "oficina", "playa",
+    "montaña", "río", "bosque", "ciudad", "pueblo", "calle", "carretera", "puente", "avion", "tren", "sol", "luna",
+    "estrella", "cielo", "nube", "lluvia", "viento", "trueno", "relampago", "arcoiris",
+    "mar", "océano", "playa", "arena", "ola", "montaña", "valle", "desierto", "bosque", "selva",
+    "volcán", "glaciar", "isla", "río", "lago", "pantano", "cascada", "cueva", "roca", "piedra",
+    "fuego", "humo", "ceniza", "árbol", "flor", "hoja", "fruta", "semilla", "raíz", "corteza",
+    "trigo", "maíz", "cebada", "arroz", "soja", "manzana", "naranja", "plátano", "uva", "pera",
+    "piña", "sandía", "melón", "limón", "fresa", "cereza", "mango", "durazno", "ciruela", "tomate",
+    "zanahoria", "lechuga", "espinaca", "papa", "cebolla", "ajo", "pimiento", "chile", "calabaza", "pepino",
+    "tren", "autobús", "carro", "bicicleta", "motocicleta", "barco", "avión", "helicóptero", "patineta", "monopatín",
+    "cohete", "tractor", "ambulancia", "camión", "taxi", "globo", "paraguas", "sombrilla", "coche", "submarino",
+    "farol", "semáforo", "cruz", "mapa", "telescopio", "lupa", "camisa", "falda", "vestido", "chaqueta")
